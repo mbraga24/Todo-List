@@ -5,6 +5,7 @@
   background: #ff6666;
   color: #ffff;
   box-shadow: -20px -20px 0px 0px rgba(100, 100, 100, 0.1);
+  border-radius: 10px;
 }
 
 .TodoList ul {
